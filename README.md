@@ -4,7 +4,7 @@ This project focuses on analyzing a hotel reservation dataset using SQL to uncov
 
 By running targeted SQL queries, the analysis identifies trends in meal plan preferences, booking status, room types, seasonal patterns, and pricing—helping hotels improve decision-making and enhance guest experiences.
 
-🎯 PROJECT OVERVIEW
+PROJECT OVERVIEW
 
 Using SQL queries, this project answers 15 key business questions, including:
 
@@ -22,48 +22,46 @@ Using SQL queries, this project answers 15 key business questions, including:
 
 7.Highest and lowest lead times.
 
-8.Most common market segment
+8.Most common market segment.
 
-9.Count of confirmed bookings
+9.Count of confirmed bookings.
 
-10.Total number of adults and children
+10.Total number of adults and children.
 
-11.Average weekend nights for reservations with children
+11.Average weekend nights for reservations with children.
 
-12.Monthly reservation trends
+12.Monthly reservation trends.
 
-13.Average nights spent per room type
+13.Average nights spent per room type.
 
-14.Common room type for families with children & its average price
+14.Common room type for families with children & its average price.
 
-15.Market segment with the highest average price per room
+15.Market segment with the highest average price per room.
 
-🛠️ TOOLS & TECNOLOGIES
+TOOLS & TECNOLOGIES
 
-SQL – Data querying and analysis
+* SQL – Data querying and analysis
 
-RDBMS – MySQL (or any SQL-supported platform)
+* Dataset – Hotel reservation data (CSV/Database format)
 
-Dataset – Hotel reservation data (CSV/Database format)
+KEY INSIGHTS
 
-📊 KEY INSIGHTS
+* Identified the most preferred room type and meal plan among guests.
 
-Identified the most preferred room type and meal plan among guests.
+* Found seasonal booking trends to help in demand forecasting.
 
-Found seasonal booking trends to help in demand forecasting.
+* Determined market segments with higher revenue potential.
 
-Determined market segments with higher revenue potential.
+* Highlighted booking behavior differences between guests with and without children.  
 
-Highlighted booking behavior differences between guests with and without children.
-
-🚀 Outcome
+OUTCOME
 
 This analysis provides data-driven insights that hotels can use to:
 
-Optimize pricing strategies.
+* Optimize pricing strategies.
 
-Improve marketing focus on profitable segments.
+* Improve marketing focus on profitable segments.
 
-Enhance guest satisfaction by tailoring services to preferences.
+* Enhance guest satisfaction by tailoring services to preferences.
 
 
